@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minigun:gun",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/minigun"
+      },
+      "geometry": {
+        "default": "geometry.minigun"
+      },
+      "render_controllers": [
+        "controller.render.minigun"
+      ]
+    }
+  }
+}
