@@ -23,3 +23,24 @@
     }
   }
 }
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minigun:gun",
+      "category": "equipment"
+    },
+    "components": {
+      "minecraft:hand_equipped": true,
+      "minecraft:max_stack_size": 1,
+      "minecraft:display_name": { "value": "Minigun" },
+      "minecraft:cooldown": 0.1,
+      "minecraft:use_duration": 9999,
+      "minecraft:projectile": {
+        "projectile_entity": "minigun:bullet",
+        "minimum_critical_power": 0
+      },
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}
