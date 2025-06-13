@@ -1,0 +1,13 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minigun:gun",
+      "category": "equipment"
+    },
+    "components": {
+      "minecraft:icon": "textures/items/minigun_icon",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}
