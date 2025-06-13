@@ -1,0 +1,16 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Minigun Resource Pack",
+    "description": "Custom model and textures for minigun",
+    "uuid": "4150f0b2-790c-41bd-9552-2bfb9463280b ",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "d1457a9b-38e6-4825-ac10-58be685a1f4e",
+      "version": [1, 0, 0]
+    }
+  ]
+}
